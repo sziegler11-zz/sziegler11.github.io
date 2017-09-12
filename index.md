@@ -1,4 +1,3 @@
 ## invitation to exploration
 
-I will hopefully use this page to write about whatever I happen to be learning about at the moment.
-
+Hi! My name is Sam Ziegler, and this is my blog. I will post about mathematics, machine learning, and anything else that I'm learning about and want to share.

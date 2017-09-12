@@ -1,1 +1,1 @@
-Hi! My name is Sam Ziegler, and this is my blog. I will post about mathematics, machine learning, and anything else that I'm learning about and want to share.
+I am a Data Scientist at Lending Club. In my spare time, I listen to music and play bass guitar.
