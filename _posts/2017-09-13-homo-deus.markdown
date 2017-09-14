@@ -1,0 +1,5 @@
+---
+layout: post
+title:  "Review of 'Homo Deus'"
+date:   2017-09-13 
+---
