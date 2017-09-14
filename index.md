@@ -1,3 +1,3 @@
-## Math et al
+# Hi.
 
-Hi! My name is Sam Ziegler. I will post about mathematics, machine learning, and other things that I'm learning about.
+My name is Sam Ziegler. This page will contain my writings about mathematics, machine learning, books, and more.
