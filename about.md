@@ -1,1 +1,2 @@
-By day, I am a Data Scientist at Lending Club. In my spare time, I listen to music, play bass guitar, and occassionally run around outside.
+I’m Sam Ziegler, an Associate Data Scientist at LendingClub in San Francisco. Previously, I was a Machine Learning Engineer at Allstate, and before that a graduate student in mathematics at the University of Illinois at Chicago.
+
